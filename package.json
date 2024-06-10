@@ -4,7 +4,8 @@
   "description": "Back end repo for a web app that will help traders leverage the information of the Commitment of Traders report",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
